@@ -1,1 +1,1 @@
-# C-programming-100-days-DAY-1
+# C-programming-100-days
